@@ -11,3 +11,5 @@ class UsersControllers {
 }
 
 export default UsersControllers
+
+// gere uma documentação!
